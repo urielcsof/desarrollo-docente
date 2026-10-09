@@ -1,0 +1,8 @@
+{
+  "name": "SIAC - Sistema Integral de Asignación y Evaluación Docente",
+  "description": "Base de datos y dashboard académico para el registro de licenciaturas, modalidades, cuatrimestres, asignación de materias, antigüedad y evaluación docente por alumnos y coordinación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
